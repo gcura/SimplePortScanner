@@ -37,5 +37,8 @@ Options:
 [+] Port 5900: Open
 [+] Port 6000: Open
 [+] Port 8009: Open
-
 </pre>
+
+# Requirments
+
+Python v2.7 required. The program will not run in python v3.x
