@@ -13,3 +13,29 @@ Options:
   -H HOST     specify target host
 </pre>
 
+# Output
+
+<pre>
+[+] Scan Results for : 192.168.182.150
+[+] Port 21: Open
+[+] Port 22: Open
+[+] Port 23: Open
+[+] Port 25: Open
+[+] Port 53: Open
+[+] Port 80: Open
+[+] Port 111: Open
+[+] Port 139: Open
+[+] Port 445: Open
+[+] Port 512: Open
+[+] Port 513: Open
+[+] Port 514: Open
+[+] Port 1524: Open
+[+] Port 2049: Open
+[+] Port 2121: Open
+[+] Port 3306: Open
+[+] Port 5432: Open
+[+] Port 5900: Open
+[+] Port 6000: Open
+[+] Port 8009: Open
+
+</pre>
