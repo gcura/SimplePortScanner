@@ -1,5 +1,5 @@
 # SimplePortScanner
-Python program that utilizes the TCP full connect scan to scan the top 1000 most common TCP ports on a host.
+Python program that utilizes the TCP full connect scan to scan the all 65535 ports on a host.
 
 # Install
 <pre> $ git clone https://github.com/gcura/SimplePortScanner.git</pre>
@@ -41,4 +41,4 @@ Options:
 
 # Requirments
 
-Python v2.7 required. The program will not run in python v3.x
+Updated to work for Python v3.x . Will not work with Python 2.x
